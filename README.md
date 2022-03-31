@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fibbermcg
-- 👀 I’m interested in ...Arduino & R-Pi
-- 🌱 I’m currently learning ...Arduino
-- 💞️ I’m looking to collaborate on ...esp8266 projects
+- 👀 I’m interested in ...Arduino & R-Pi (later)
+- 🌱 I’m currently trying to learn ...Arduino
+- 💞️ I’m looking to collaborate on ...esp8266 esp32 projects
 - 📫 How to reach me ...
 
 <!---
